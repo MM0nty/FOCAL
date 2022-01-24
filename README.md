@@ -1,6 +1,6 @@
 # F.O.C.A.L.
 
-#### Acronym to describe the core concepts of programming that lay the foundation for everything else.
+Acronym to describe the core concepts of programming that lay the foundation for everything else.
 
 ### F unctions.
 ### O bjects.
